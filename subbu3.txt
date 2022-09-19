@@ -1,5 +1,8 @@
 hi
 hello
+<<<<<<< HEAD
 this is git hub
 this is practicing
+=======
+>>>>>>> uat
 
